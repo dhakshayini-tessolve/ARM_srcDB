@@ -1,0 +1,9 @@
+{
+  "has_pdl": false,
+  "module": "scan",
+  "pattern": "file1",
+  "source": "/home/dhakshayini/source-files",
+  "timestamp": "2026-08-13T13:00:16Z",
+  "type": "prod",
+  "user": "dhakshayini"
+}
