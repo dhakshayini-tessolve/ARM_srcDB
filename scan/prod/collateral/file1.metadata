@@ -3,7 +3,7 @@
   "module": "scan",
   "pattern": "file1",
   "source": "/home/dhakshayini/source-files",
-  "timestamp": "2026-08-17T17:37:36Z",
+  "timestamp": "2026-08-17T17:38:35Z",
   "type": "prod",
   "user": "dhakshayini"
 }
