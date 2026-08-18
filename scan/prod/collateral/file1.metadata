@@ -1,7 +1,7 @@
 {
   "has_pdl": false,
   "module": "scan",
-  "pattern": "file2",
+  "pattern": "file1",
   "source": "/home/dhakshayini/source-files",
   "timestamp": "2026-08-18T12:06:03Z",
   "type": "prod",
