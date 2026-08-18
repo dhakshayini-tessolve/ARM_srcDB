@@ -2,8 +2,8 @@
   "has_pdl": false,
   "module": "scan",
   "pattern": "file2",
-  "source": "/home/dhakshayini/source-files",
-  "timestamp": "2026-08-18T22:41:55Z",
+  "source": "/home/dhakshayini/source-files2",
+  "timestamp": "2026-08-18T22:46:17Z",
   "type": "prod",
   "user": "dhakshayini"
 }
