@@ -1,9 +1,0 @@
-{
-  "has_pdl": false,
-  "module": "reset",
-  "pattern": "mbist_pat1",
-  "source": "/home/dhakshayini/ARM/Aug11/build/source-files",
-  "timestamp": "2026-08-19T18:05:14Z",
-  "type": "debug",
-  "user": "dhakshayini"
-}
