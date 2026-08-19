@@ -1,0 +1,9 @@
+{
+  "has_pdl": false,
+  "module": "reset",
+  "pattern": "reset_pat1",
+  "source": "/home/dhakshayini/ARM/Aug11/build/source-files",
+  "timestamp": "2026-08-19T16:35:23Z",
+  "type": "prod",
+  "user": "dhakshayini"
+}
