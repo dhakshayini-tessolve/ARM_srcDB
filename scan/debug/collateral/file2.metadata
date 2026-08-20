@@ -1,0 +1,9 @@
+{
+  "has_pdl": false,
+  "module": "scan",
+  "pattern": "file2",
+  "source": "/home/dhakshayini/source-files2",
+  "timestamp": "2026-08-20T09:34:04Z",
+  "type": "debug",
+  "user": "dhakshayini"
+}
