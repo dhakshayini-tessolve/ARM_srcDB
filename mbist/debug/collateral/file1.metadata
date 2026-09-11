@@ -1,7 +1,7 @@
 {
   "has_pdl": false,
   "module": "mbist",
-  "pattern": "file2",
+  "pattern": "file1",
   "source": "/home/dhakshayini/source-files",
   "timestamp": "2026-09-11T15:24:14Z",
   "type": "debug",
